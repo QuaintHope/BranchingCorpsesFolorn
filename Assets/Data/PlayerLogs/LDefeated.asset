@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c4036d40c39015478ada549513f19f8, type: 3}
+  m_Name: LDefeated
+  m_EditorClassIdentifier: 
+  log: You break down in tears.
+  nextLog: {fileID: 0}
+  nextButtonText: It's too late
+  soundEffectButtonOnClick: {fileID: 8300000, guid: 8a1e8113e1de17949af9ce70f7344d37,
+    type: 3}
+  pitchValue: 0.75

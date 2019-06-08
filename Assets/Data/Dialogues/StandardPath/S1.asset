@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50e4ffa5ff5a11448dcc8ef2fe2b2e6, type: 3}
+  m_Name: S1
+  m_EditorClassIdentifier: 
+  dialogueSpeaker: Sword
+  _dialogue: Look at you, Forsaken One, you are nothing but the shadow of your former
+    glory.
+  _swordSprite: {fileID: 21300000, guid: 5d69d3b52cedb2b40854f7151d7f76e5, type: 3}
+  _nextDialogue: {fileID: 11400000, guid: 9660f55332a9e054a85b9139ab87d960, type: 2}
